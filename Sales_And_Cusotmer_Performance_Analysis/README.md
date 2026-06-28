@@ -1,5 +1,14 @@
 # Sales and Customer Performance Tableau Project
 
+## Dashboard
+
+Interactive Tableau dashboard:
+
+View Dashboards on Tableau Public:
+
+https://public.tableau.com/views/Project101_17826714123150/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Overview
 
 This project focuses on analysing sales and customer performance trends using Tableau. The objective was to compare year-to-year business performance across key metrics, including sales, quantity, profit, customers, and orders.
